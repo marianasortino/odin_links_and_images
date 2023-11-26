@@ -16,7 +16,7 @@ Additional description about the project and its features.
 
 ## Live Demo
 
-[Live Demo Link](https://livedemo.com)
+[Live Demo Link](https://marianasortino.github.io/odin_links_and_images/)
 
 
 ## Getting Started
